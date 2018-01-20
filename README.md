@@ -1,18 +1,17 @@
-# Przegl¹darka www
-Aplikacja sieciowa przegl¹darki internetowej
-## Jak odpaliæ?
+# PrzeglÄ…darka www
+Aplikacja sieciowa przeglÄ…darki internetowej. Projekt dotyczy ma na celu stworzenie przeglÄ…darki sieciowej.
+## Jak odpaliÄ‡?
 Standardowo plik .exe
-## Jak testowaæ?
-Testowanie bêdzie polega³o na wpisaniu randomowej strony i porówanie jej ze stron¹ w innej przegl¹darce.
-## Opisanie dzia³alnoœci
-Przegl¹darka www do wyœwietlania stron
+## Jak testowaÄ‡?
+Testowanie bÄ™dzie polegaÅ‚o na wpisaniu randomowej strony, otwarciu kilku kart etc.
+## Opisanie dziaÅ‚alnoÅ›ci
+PrzeglÄ…darka www do wyÅ›wietlania stron
 ## Propozycje TO DO
-- zak³adki - Ulubione,
+- zakÅ‚adki - Ulubione,
 - zapisywanie strony na dysk,
-- mo¿liwoœæ wydruku
+- moÅ¼liwoÅ›Ä‡ wydruku
 - otwieranie wielu kart, 
 - wyszukiwarka,
 - strona startowa,
-- dostêp do historii (kilka ostatnich otwartych kart)
-- przyciski: odœwie¿, cofnij, stop,
-- 
+- dostÄ™p do historii (kilka ostatnich otwartych kart)
+- przyciski: odÅ›wieÅ¼, cofnij, stop,
